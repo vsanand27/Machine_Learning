@@ -30,7 +30,7 @@ Please see below the Summary Results of the 6 algorithm and definitions of metri
 
 
 # Evaluation Criteria & Definition
-The following criteria were used for evaluating the model. Below are four possible outcomes based on Confusion Matrix.  We utilize the following measurements to access high cre
+The following criteria were used for evaluating the model. Below are four possible outcomes based on Confusion Matrix.  We utilize the following measurements to access high risk credit
  
 1.	Precision: is likelihood of application has a high credit risk. If an application is predicted to be high risk and is really high risk, then it is a true positive (TP). However, if an application is predicted to be high risk but is not high risk, then it is a false positive (FP). 
 
